@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>あかいへや</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <main id="background-void"></main>
+
+    <dialog id="cursed-popup" class="popup">
+        <header>
+            <h2>ウェブページのメッセージ</h2>
+            <button id="close-btn" aria-label="Close window">X</button>
+        </header>
+        <section class="popup-body">
+            <p id="popup-text">あなたは好きですか？<br><span class="subtext">(Do you like it?)</span></p>
+        </section>
+    </dialog>
+
+    <audio id="voice-audio" src="audio/voice.wav" loop></audio>
+    <audio id="static-audio" src="audio/reverse-piano.wav" loop></audio>
+
+    <script src="app.js" defer></script>
+    
+</body>
+</html>
