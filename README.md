@@ -9,7 +9,7 @@ A psychological horror web experiment and a faithful recreation of the infamous 
 This project is a technical study in **hostile UI/UX design** and **Vanilla JavaScript DOM manipulation**, demonstrating how code can be used to hijack the user experience and create an inescapable sense of dread.
 
 ## ⚠️ Live Preview (Enter at your own risk)
-![Akai-Heya]Preview.gif
+![Akai-Heya]./Preview.gif
 
 **WARNING:** This project contains loud noises, flashing colors, and intentionally frustrating UI mechanics. 
 
